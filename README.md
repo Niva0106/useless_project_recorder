@@ -56,7 +56,6 @@ pip install simpleaudio]
 *Recording started*
 
 ![Screenshot3](![save](https://github.com/user-attachments/assets/beaf09b4-2867-4d79-9775-642abf79edad))
-
 *Saving the audio file*
 
 
@@ -67,7 +66,7 @@ pip install simpleaudio]
 
 
 ## Team Contributions
-- [Niveditha N]: [Idea,Coding(framework)]
+- [Niveditha N]: [Idea,Coding[framework]]
 - [Swathi S Nair]: [coding,github]
 
 ---
