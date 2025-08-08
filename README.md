@@ -1,23 +1,22 @@
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
-# [Project Name] 🎯
+# [ROGUE RECORDER] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [Byte Benders]
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: [Niveditha N] - [Jyothi Engineering College]
+- Member 2: [Swathi S Nair] - [Jyothi Engineering College]
 
 ### Project Description
-[2-3 lines about what your project does]
+[This project is a novelty audio recorder that captures sound but, during playback, replaces the original recording with a random comedic audio clip. The device is designed for entertainment purposes, adding humor and surprise to normal recording activities.]
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+[People are stuck listening to the same dull recordings they just made, with zero surprise or humor.]
 
 ### The Solution (that nobody asked for)
 [How are you solving it? Keep it fun!]
