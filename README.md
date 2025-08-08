@@ -61,13 +61,13 @@ pip install simpleaudio]
 
 ### Project Demo
 # Video
-[Add your demo video link here]
+[https://github.com/user-attachments/assets/110ac24c-64b8-4829-8854-450ef8c72a0d]
 *The video demonstrates working of the recorder*
 
 
 ## Team Contributions
-- [Niveditha N]: [Idea,Coding[framework]]
-- [Swathi S Nair]: [coding,github]
+- [Niveditha N]: [Idea,Coding framework]
+- [Swathi S Nair]: [coding,github ]
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
