@@ -19,77 +19,56 @@
 [People are stuck listening to the same dull recordings they just made, with zero surprise or humor.]
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+[A recorder that replaces your audio with random, hilarious clips for unexpected laughs!]
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- [python]
+- [tkinter]
+- [NumPy,SciPy,sounddevice,pydub,simpleaudio,pathlib,threading.]
+- [VS CODE,Gemini]
 
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
 
-### Implementation
-For Software:
 # Installation
-[commands]
+[pip install tk
+
+pip install sounddevice 
+
+pip install numpy 
+
+pip install scipy 
+
+pip install pydub
+
+pip install simpleaudio]
 
 # Run
-[commands]
+[python3 app2.py]
 
 ### Project Documentation
-For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot1](![redaytorecord](https://github.com/user-attachments/assets/f07f50e1-6752-4109-8451-b683e17c650f))
+*Recorder is all set for recording*
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot2](![Recording](https://github.com/user-attachments/assets/e61f6ece-2c87-4a65-b3be-a6bdf366e9a1))
+*Recording started*
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot3](![save](https://github.com/user-attachments/assets/beaf09b4-2867-4d79-9775-642abf79edad))
 
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
+*Saving the audio file*
 
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
 
 ### Project Demo
 # Video
 [Add your demo video link here]
-*Explain what the video demonstrates*
+*The video demonstrates working of the recorder*
 
-# Additional Demos
-[Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- [Niveditha N]: [Idea,Coding(framework)]
+- [Swathi S Nair]: [coding,github]
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
