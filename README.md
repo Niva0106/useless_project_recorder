@@ -49,10 +49,10 @@ pip install simpleaudio]
 ### Project Documentation
 
 # Screenshots (Add at least 3)
-![Screenshot1](![redaytorecord](https://github.com/user-attachments/assets/f07f50e1-6752-4109-8451-b683e17c650f))
+![Screenshot1][https://github.com/user-attachments/assets/f07f50e1-6752-4109-8451-b683e17c650f]
 *Recorder is all set for recording*
 
-![Screenshot2](![Recording](https://github.com/user-attachments/assets/e61f6ece-2c87-4a65-b3be-a6bdf366e9a1))
+![Screenshot2][Recording](https://github.com/user-attachments/assets/e61f6ece-2c87-4a65-b3be-a6bdf366e9a1]
 *Recording started*
 
 ![Screenshot3][(https://github.com/user-attachments/assets/beaf09b4-2867-4d79-9775-642abf79edad]
