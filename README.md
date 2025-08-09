@@ -13,7 +13,7 @@
 - Member 2: [Swathi S Nair] - [Jyothi Engineering College]
 
 ### Project Description
-[This project is a novelty audio recorder that captures sound but, during playback, replaces the original recording with a random comedic audio clip. The device is designed for entertainment purposes, adding humor and surprise to normal recording activities.]
+[This project is a novelty audio recorder that captures sound but, during playback, replaces the original recording with a random comedic audio clip. The application is designed for entertainment purposes, adding humor and surprise to normal recording activities.]
 
 ### The Problem (that doesn't exist)
 [People are stuck listening to the same dull recordings they just made, with zero surprise or humor.]
